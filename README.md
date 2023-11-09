@@ -54,7 +54,7 @@ Displayed epipolar lines:
 
 Displayed disparity maps:
 1. Disparity map in grayscale
-<img src ="Picture1.jpg" width=400/>
+<img src ="Picture1.png" width=400/>
 2. Disparity map using a heatmap for visualization
 <img src ="Picture2.jpg" width=400/>
 ## Part 4: Depth Map Computation
@@ -71,6 +71,3 @@ Displayed depth information:
 - The disparity calculation can be time-consuming; please be patient as the process completes.
 - The source codes and the detailed PDF report are included within the zip file submission.
 
-<img src ="Results\feature_detection.png" width=400/>
-<img src ="Results\matchfeatures.png" width=400/>
-<img src ="Results\final_panaroma.png" width=400/>
