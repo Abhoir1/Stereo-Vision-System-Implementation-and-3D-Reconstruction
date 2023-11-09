@@ -57,6 +57,7 @@ Displayed disparity maps:
 <img src ="Picture1.png" width=400/>
 2. Disparity map using a heatmap for visualization
 <img src ="Picture2.jpg" width=400/>
+
 ## Part 4: Depth Map Computation
 
 ### Visual Outputs
